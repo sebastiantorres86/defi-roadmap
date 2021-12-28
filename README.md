@@ -44,7 +44,7 @@ Cuando se comprende y se pone al día con Ethereum, la lista de cosas que hay qu
 
    **Palabras clave:** DAO Reentrancy Attack, Parity Multisig Exploit 2016.
 
-   > ! [] (./ img / 1.png)
+   > ![](img/1.png)
    >
    > ##### Un desarrollador anónimo autodestruyó un contrato que contenía miles de millones de dólares. Ese dinero ahora se ha ido para siempre.
 
